@@ -2,7 +2,7 @@ name: Siddhesh First Action
 on: push
 jobs:
   build:
-    name: Siddhesh Job
+    name: Siddhesh Job Ok
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
